@@ -1,4 +1,5 @@
-﻿using DDD1.Shared.Entities;
+﻿
+using DDD1.Shared.Entities;
 using DDD1.Domain.ValuesObjects;
 using FluentValidator;
 
